@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variáveis de ambiente / credenciais
+.env
+
+# VS Code
+.vscode/
